@@ -5,7 +5,7 @@ public class UniqueLogic {
 	 public static void main(String args[]){
 		 
 		  String helloWorld="This is hello world";
-		  System.out.println("length of helloWorld string :"+getLengthOfStringWithCharArray(helloWorld));
+		  System.out.println("length:"+getLengthOfStringWithCharArray(helloWorld));
 		  }
 		 
 		public static int getLengthOfStringWithCharArray(String str)
