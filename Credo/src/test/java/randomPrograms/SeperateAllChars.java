@@ -23,7 +23,7 @@ public class SeperateAllChars {
 					sp=sp +s.charAt(i);
 				
 				}
-			}
+			} 
 		System.out.println("alphabets----------: "+alpha);
 		System.out.println("number-------------: "+num);
 		System.out.println("special characters-: "+sp);
