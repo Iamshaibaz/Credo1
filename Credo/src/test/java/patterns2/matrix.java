@@ -4,9 +4,9 @@ public class matrix {
 
 	public static void main(String[] args)
 	{
-		for(int i = 0 ;i<87;i++)
+		for(int i = 0 ;i<4;i++)
 		{
-			for(int j = 0 ;j<7878 ;j++)
+			for(int j = 0 ;j<4 ;j++)
 			{
 				System.out.print("* ");
 			}
