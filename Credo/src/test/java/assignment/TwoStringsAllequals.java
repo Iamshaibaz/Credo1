@@ -4,7 +4,7 @@ public class TwoStringsAllequals {
 	
 	public static void main(String[] args)
 	{
-		String s1 ="bbc";
+		String s1 ="cb";
 		String s2 ="b";
 	    System.out.println(s1.compareTo(s2));
 	}
